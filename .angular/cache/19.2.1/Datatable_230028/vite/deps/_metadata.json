@@ -1,31 +1,31 @@
 {
-  "hash": "07e05f9a",
-  "configHash": "70e70a8b",
+  "hash": "82a821a4",
+  "configHash": "4c5845e0",
   "lockfileHash": "b731020e",
-  "browserHash": "fa00ca3d",
+  "browserHash": "5b5836d0",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "ab713a4d",
+      "fileHash": "87e06107",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "3150f078",
+      "fileHash": "a31cb9f2",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "02d1354a",
+      "fileHash": "6541f97d",
       "needsInterop": false
     },
     "angular-datatables": {
       "src": "../../../../../../node_modules/angular-datatables/fesm2022/angular-datatables.mjs",
       "file": "angular-datatables.js",
-      "fileHash": "eecc231d",
+      "fileHash": "79be337b",
       "needsInterop": false
     }
   },

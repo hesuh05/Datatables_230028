@@ -11,7 +11,8 @@ export class OptionsDatatableComponent implements OnInit {
   dtOptions: Config = {}
   ngOnInit(): void {
     this.dtOptions = {
-      pagingType: 'full_numbers'
+      pagingType: 'full_numbers',
+      ordering: true
     }
   }
 }
