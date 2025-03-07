@@ -1,0 +1,43 @@
+{
+  "hash": "07e05f9a",
+  "configHash": "70e70a8b",
+  "lockfileHash": "b731020e",
+  "browserHash": "fa00ca3d",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ab713a4d",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "3150f078",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "02d1354a",
+      "needsInterop": false
+    },
+    "angular-datatables": {
+      "src": "../../../../../../node_modules/angular-datatables/fesm2022/angular-datatables.mjs",
+      "file": "angular-datatables.js",
+      "fileHash": "eecc231d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5TSGWT34": {
+      "file": "chunk-5TSGWT34.js"
+    },
+    "chunk-A72MXNGS": {
+      "file": "chunk-A72MXNGS.js"
+    },
+    "chunk-ICDOO44F": {
+      "file": "chunk-ICDOO44F.js"
+    }
+  }
+}
